@@ -1,0 +1,21 @@
+-- create bl_cl user
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\user\bl_cl.sql"
+
+-- create tables for bl_cl
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_buildings\cls_buildings.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_cities\cls_cities.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_countries\cls_countries.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_invoices\cls_invoices.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_order_items\cls_order_items.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_packaging_types\cls_packaging_types.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_postal_codes\cls_postal_codes.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_products\cls_products.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_shipping_couriers\cls_shipping_couriers.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_streets\cls_streets.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\cls_users\cls_users.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\scd_row_type\scd_row_type.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\wrk_countries_codes\wrk_countries_codes.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\wrk_invoices\wrk_invoices.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\wrk_products\wrk_products.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\wrk_transactions\wrk_transactions.sql"
+@"D:\Artsemi_Dzmitryieu\Module4\Shared_Folder\BI_Lab_winter-spring_2018\_0. DWH\Projects\Artsemi_Dzmitryieu\dwso\bl_cl\tables\wrk_users\wrk_users.sql"
